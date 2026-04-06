@@ -1,6 +1,9 @@
 site_name: Moje projekty
 site_author: Anna Wilga
-site_description: Portfolio moich wspaniałych projektów z Data Science i AI!
+site_description: Portfolio moich projektów z Data Science i AI!
+
+repo_name: awilgaol1/ds_ai_portfolio
+repo_url: https://github.com/awilgaol1/ds_ai_portfolio
 
 theme:
   name: material
