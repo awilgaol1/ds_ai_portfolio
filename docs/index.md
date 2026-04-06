@@ -2,7 +2,7 @@
 
 **Autor:** Anna Wilga
 
-Portfolio moich wspaniałych projektów z Data Science i AI!
+Portfolio moich projektów z Data Science i AI!
 
 ## Projekty
 
